@@ -20,3 +20,13 @@ RESNET
 Test accurcay: 78%
 
 ## 5. Demo
+![Demo](https://github.com/siyanl-sl/CV-Car-Damage-Detection/blob/main/Demo.png)
+
+## 6. Reference/Credit
+Source Code of demo deployment:
+
+https://github.com/WZMIAOMIAO/deep-learning-for-image-processing/tree/master/deploying_service/deploying_pytorch/pytorch_flask_service
+	
+Background Image: 
+
+https://www.flickr.com/photos/fools4tress/33532935721/in/photostream/lightbox/
