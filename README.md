@@ -14,7 +14,7 @@ VGG 16&19
 
 INCEPTION
 
-RESNET
+RESNET 18&152
 
 ## 4. Results
 Test accurcay: 78%
